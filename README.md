@@ -7,6 +7,8 @@ It includes a `Dockerfile` for building a Docker image with the application, and
 https://getintodevops.com
 include webhook first automatic build 2
 
+include webhook automatic build ubuntunvm
+
 =======
 # devops-tutorial
 >>>>>>> ce3c95b92d0a737f7f47667c31aafe18343361c6
